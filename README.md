@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthik R</h1>
-<h3 align="center">Passionate and motivated software engineer from India</h3>
+<h3 align="center">| Aspiring Software Developer | Web Developer |</h3>
 
-- 👨‍💻 All of my projects are available at [https://karthikravi3121.github.io/portfolio/](https://karthikravi3121.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at (https://portfolio-three-coral-tpjdozafps.vercel.app/)
 
 - 📫 How to reach me **karthikravi3121@gmail.com**
 
