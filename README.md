@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **karthikravi3121@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NCqRr_rTx_rmRbkDczloOHBM3zMZTHdR/view?usp=drive_link][(https://drive.google.com/file/d/1NCqRr_rTx_rmRbkDczloOHBM3zMZTHdR/view?usp=drive_link)](https://drive.google.com/file/d/1qDbbIJREVvW1REDdobXcZY5ZG463GzYe/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1qDbbIJREVvW1REDdobXcZY5ZG463GzYe/view?usp=drive_link)
 
 - ⚡ Fun fact **I love to read about crazy incidents from the past!**
 
